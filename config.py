@@ -1,1 +1,5 @@
 token='5779118234:AAF9WO6tErSn8_3487ib3ugbHRPIKJEkCHo'
+db_host = '127.0.0.1'
+db_user = 'root'
+db_password = '1Andrey!ru'
+db_name = 'tg_bot'
