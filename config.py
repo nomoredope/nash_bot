@@ -1,1 +1,5 @@
-token='5779118234:AAF9WO6tErSn8_3487ib3ugbHRPIKJEkCHo'
+token = '5608422651:AAE6RL6iCegzGNdFsSD3QT6ET8iiQFblP0M'
+db_host = '127.0.0.1'
+db_user = 'root'
+db_password = 'gooooseroot'
+db_name = 'tg_bot'
